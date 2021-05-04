@@ -15,6 +15,7 @@ const Home = () => {
     <div>
       <StyledDiv1>
         <StyledDiv2>
+          111
           <Avatar src={avatarSrc} />
           <Button isOutline>
             <Icon name="menu" />
