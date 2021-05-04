@@ -1,6 +1,6 @@
 {
   "name": "product",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "private": true,
   "license": "MIT",
   "dependencies": {
@@ -42,5 +42,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https:/varya.me"
+  "homepage": "https:/varya.me/hands-on-repo-test1"
 }
